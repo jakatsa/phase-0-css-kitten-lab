@@ -37,3 +37,13 @@ write-your-selector-here {
   top: 217px;
   left: 223px;
 }
+.kitty-1 {
+}
+#kitty-2 {
+}
+#basket img {
+}
+#ball + img {
+}
+img[alt="Kitty 5"] {
+}
